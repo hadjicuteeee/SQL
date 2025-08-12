@@ -1,1 +1,5 @@
 
+# Student Attendance SQL Queries
+
+This repository contains multiple SQL queries for analyzing student enrollment and attendance data.  
+It demonstrates the use of **JOINs**, **aggregation functions**, **CASE statements**, **GROUP BY**, **HAVING**, and **window functions**.
