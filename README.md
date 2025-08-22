@@ -13,7 +13,7 @@ Each folder includes queries and problems that I solved while studying SQL conce
 - **JULY** → SQL activities done in July
 - **PRODUCTS** → Queries on product dataset
 - **SALES** → Sales-related queries and reports
-- **STUDENTS** → Student information database practice
+- **STUDENTS** → Student course practice
 - **WINDOWS-FUNCTION** → Window function queries
 
 ## 🛠 SQL Concepts Covered
