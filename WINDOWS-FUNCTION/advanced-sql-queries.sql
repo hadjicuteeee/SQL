@@ -1,4 +1,4 @@
-SELECT * FROM customerss c
+SELECT * FROM customers c
 INNER JOIN orderss o on c.customer_id = o.customer_id;
 
 SELECT o.customer_id, customer_name,
