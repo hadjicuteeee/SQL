@@ -2,7 +2,7 @@
 
 This repository contains a series of SQL queries demonstrating the use of **Common Table Expressions (CTEs)**, **aggregate functions**, and **window functions** in analyzing employee and department data.  
 
-The dataset used assumes a structure similar to the **HR database** (commonly used in SQL practice).  
+The dataset used assumes a structure similar to the **HR database** (commonly used in sql practice).  
 
 ---
 
