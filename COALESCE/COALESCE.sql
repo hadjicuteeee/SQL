@@ -81,6 +81,7 @@ FROM orders;
 --TASK 3
 SELECT employeeNumber, firstName, lastName, jobTitle
 FROM employees
+  
 UNION
 SELECT employeeNumber, firstName, lastName, jobTitle
 FROM employees_copy;
